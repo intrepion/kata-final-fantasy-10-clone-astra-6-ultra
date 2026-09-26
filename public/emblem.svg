@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <title>Tideborn crest: the sun above the endless tide</title>
+  <g stroke="#b29b66" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="60" cy="60" r="44" stroke-width="1" opacity=".55"/>
+    <path d="M60 5v13m0 84v13M5 60h13m84 0h13M21 21l9 9m60 60 9 9M21 99l9-9m60-60 9-9" stroke-width="1.3"/>
+    <path d="m60 11 6 10-6-2-6 2zm49 49-10 6 2-6-2-6zM60 109l-6-10 6 2 6-2zM11 60l10-6-2 6 2 6z" fill="#b29b66" stroke="none"/>
+    <path d="M60 26c14 0 26 12 26 26 0 4-1 8-3 11-1-17-14-30-30-30-5 0-9 1-13 3 5-7 12-10 20-10Z" fill="#b29b66" stroke="none"/>
+    <path d="M31 71c5-10 13-16 23-16 12 0 21 8 21 19 0 8-6 14-14 14-7 0-12-5-12-11 0-5 4-9 9-9 4 0 6 3 6 6 0 3-2 5-5 5" stroke-width="2.8"/>
+    <path d="M28 81c7-9 12-9 17-7m29 11c7-2 11-8 13-15M41 48c8-5 19-5 28 0" stroke-width="1.2"/>
+    <path d="m60 34 3 7-3-1-3 1z" fill="#b29b66" stroke="none"/>
+    <path d="m42 93 18 10 18-10M27 44l-7 16 7 16m66-32 7 16-7 16" opacity=".5"/>
+    <circle cx="60" cy="10" r="2" fill="#b29b66"/><circle cx="10" cy="60" r="2" fill="#b29b66"/><circle cx="110" cy="60" r="2" fill="#b29b66"/><circle cx="60" cy="110" r="2" fill="#b29b66"/>
+  </g>
+</svg>
