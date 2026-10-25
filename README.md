@@ -76,3 +76,7 @@ Unit tests cover combat scheduling, elemental damage, resources, healing/revival
 | `public/portraits/`  | Original vector character portraits                             |
 
 Built with React, TypeScript, Vite, Three.js, and Lucide. DM Sans and Cormorant Garamond are bundled through Fontsource. Project code and original art use the [MIT license](LICENSE); bundled dependencies and fonts retain their respective licenses.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-final-fantasy-10-clone-astra-6-ultra/)
