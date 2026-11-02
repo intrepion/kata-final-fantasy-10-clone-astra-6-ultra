@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-final-fantasy-10-clone-astra-6-ultra",
+  "playUrl": "https://intrepion.github.io/kata-final-fantasy-10-clone-astra-6-ultra/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/view-01.jpg",
+      "sha256": "f83b4629471e306bae7e9e4ff38d50b11927bc34d0a38d968a93e30987a2eb6c",
+      "alt": "Gameplay capture 1",
+      "provenance": {
+        "kind": "existing_repository_capture",
+        "sourcePath": "docs/tideborn.png",
+        "deployedBuild": null,
+        "captureDate": null
+      }
+    }
+  ]
+}
