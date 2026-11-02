@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-final-fantasy-10-clone-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-final-fantasy-10-clone-astra-6-ultra/",
   "screenshots": [
@@ -12,6 +12,82 @@
         "sourcePath": "docs/tideborn.png",
         "deployedBuild": null,
         "captureDate": null
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "a908bd40f922bf27d56a7389dfa3cb6eb417919959d050347cfd97ed3a5fc941",
+      "alt": "Tideborn gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "8f86652948a62bf7c0334f36a5a983e43f74a931f1326c2687c960366c79bc31",
+        "captureCommit": "93cc72edfd512f4b091d934b8997add86850bd33",
+        "workflowRunId": "41445850136",
+        "inputHashes": {
+          "index.html": "bcedcada8745af0b8196f689496f2a59f90f3b2b9168fff225cfed8ed3ffd0b2",
+          "assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2",
+          "assets/cormorant-garamond-latin-400-normal-B7YtguxJ.woff": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051",
+          "assets/cormorant-garamond-latin-500-normal-BsRWmXhO.woff2": "8197bf53615ddc8c423f444c7f0eec63b7fa0ba093fcfbec60dfdd28429b0fc8",
+          "assets/cormorant-garamond-latin-500-normal-zIXX3Q-H.woff": "314ee3edd5ddcdef5cf2374c1126b8be9f7f1ebd6c5c66a23c237f3b836a3ec1",
+          "assets/cormorant-garamond-latin-600-normal-2CBVLo0M.woff": "6d837ba78b1d06e83248201bfc5de93b6e1c67aed36820021cff3db9602542c8",
+          "assets/cormorant-garamond-latin-600-normal-Co1r35X9.woff2": "ae062b6d5ae308e7edf61b28b07b9984bbb6e961b1f34d9b2c2f4389c33f21ea",
+          "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
+          "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+          "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+          "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+          "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
+          "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
+          "assets/dm-sans-latin-700-normal-CUSSCpQX.woff": "af422a448ac00679a8dbb13532db3616829c5a35b58d3eeea5903ce17ad2e36a",
+          "assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": "35c5efa0e5daa52ee5c6500f5be354bf751fb65c4e49e1d6806c6eb5883e8fe9",
+          "assets/index-B32-RnBH.css": "3494492ec66d9551a70123e71a327f2d429887296c5adb76f08463a9a6a961f7",
+          "assets/index-CQHIhd6V.js": "4e3cb859bceb9bb39fdea7502aafaf4bfa137ec5ffe78f470f10d67140f74505",
+          "assets/rolldown-runtime-CbXtAM7H.js": "bbf7c5086ae414dc3f33777e3eebf16ea8631325b8bb4690d25091c03567f31a",
+          "assets/three-DIE6hwCS.js": "adaa25b5c7a9b8bbac7e37678f8102a80e10b4c24ec828f8b6d9ba5cc3c9898d",
+          "assets/vendor-8CrM-6AN.js": "730e2993c2bbd14857a8925b7b8716658b4a134cea8130c241691ca8f08bc84c",
+          "assets/vendor-UtBcInRk.css": "ecc9d6ec10285d94fe66dd7f9f0c44831be26e338713dc65f97f36a7e1a3844d"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "277818f5d17869a3dbe87675dfae97b472b2b77f34de2cb00766e4e41e44f25e"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "41a07dbbf2c43b0347883c2e52c9c5ab4195003bd2ff7432d356067982c536e8",
+      "alt": "Tideborn gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "d25e4705620ad933150a6d3c1c4cc426cbfa177bc6fc89dc58a516334a239581",
+        "captureCommit": "93cc72edfd512f4b091d934b8997add86850bd33",
+        "workflowRunId": "41445850136",
+        "inputHashes": {
+          "index.html": "bcedcada8745af0b8196f689496f2a59f90f3b2b9168fff225cfed8ed3ffd0b2",
+          "assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2",
+          "assets/cormorant-garamond-latin-400-normal-B7YtguxJ.woff": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051",
+          "assets/cormorant-garamond-latin-500-normal-BsRWmXhO.woff2": "8197bf53615ddc8c423f444c7f0eec63b7fa0ba093fcfbec60dfdd28429b0fc8",
+          "assets/cormorant-garamond-latin-500-normal-zIXX3Q-H.woff": "314ee3edd5ddcdef5cf2374c1126b8be9f7f1ebd6c5c66a23c237f3b836a3ec1",
+          "assets/cormorant-garamond-latin-600-normal-2CBVLo0M.woff": "6d837ba78b1d06e83248201bfc5de93b6e1c67aed36820021cff3db9602542c8",
+          "assets/cormorant-garamond-latin-600-normal-Co1r35X9.woff2": "ae062b6d5ae308e7edf61b28b07b9984bbb6e961b1f34d9b2c2f4389c33f21ea",
+          "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
+          "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+          "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+          "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+          "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
+          "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
+          "assets/dm-sans-latin-700-normal-CUSSCpQX.woff": "af422a448ac00679a8dbb13532db3616829c5a35b58d3eeea5903ce17ad2e36a",
+          "assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": "35c5efa0e5daa52ee5c6500f5be354bf751fb65c4e49e1d6806c6eb5883e8fe9",
+          "assets/index-B32-RnBH.css": "3494492ec66d9551a70123e71a327f2d429887296c5adb76f08463a9a6a961f7",
+          "assets/index-CQHIhd6V.js": "4e3cb859bceb9bb39fdea7502aafaf4bfa137ec5ffe78f470f10d67140f74505",
+          "assets/rolldown-runtime-CbXtAM7H.js": "bbf7c5086ae414dc3f33777e3eebf16ea8631325b8bb4690d25091c03567f31a",
+          "assets/three-DIE6hwCS.js": "adaa25b5c7a9b8bbac7e37678f8102a80e10b4c24ec828f8b6d9ba5cc3c9898d",
+          "assets/vendor-8CrM-6AN.js": "730e2993c2bbd14857a8925b7b8716658b4a134cea8130c241691ca8f08bc84c",
+          "assets/vendor-UtBcInRk.css": "ecc9d6ec10285d94fe66dd7f9f0c44831be26e338713dc65f97f36a7e1a3844d"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "277818f5d17869a3dbe87675dfae97b472b2b77f34de2cb00766e4e41e44f25e"
       }
     }
   ]
